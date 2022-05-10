@@ -12,3 +12,8 @@ To use weapon FX you need to install additional assets packs:
 -	animated-spell-effects-cartoon
 -	tokenmagic
 
+Usage instructions in polish:
+
+<a href="https://youtu.be/K_rBPMapeTY" target="_blank">
+ <img src="https://youtu.be/K_rBPMapeTY" alt="Watch the video" width="240" height="180" border="10" />
+</a>
