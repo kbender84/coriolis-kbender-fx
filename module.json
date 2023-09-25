@@ -2,23 +2,17 @@
   "name": "coriolis-kbender-fx",
   "title": "Coriolis kbender FX pack",
   "description": "Icons and special fx macros for Coriolis RPG",
-  "author": "kbenedr",
-  "authors": [],
-  "url": "https://github.com/kbender84/coriolis-kbender-fx",
-  "flags": {},
-  "version": "0.2",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [
+   "authors": [
     {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
+      "name": "benderworks",
+      "url": "https://www.patreon.com/benderworks/about",
+	  "discord": "kbender#0388"
+    }  
+],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
   "packs": [
     {
       "name": "corioliskbendermacros",
@@ -39,33 +33,11 @@
       "private": false
     }
   ],
-  "system": [],
   "dependencies": [
     {
-      "name": "sequencer",
-      "type": "module"
-    },
-    {
-      "name": "JB2A_DnD5e",
-      "type": "module"
-    },
-    {
-      "name": "animated-spell-effects",
-      "type": "module"
-    },
-    {
-      "name": "animated-spell-effects-cartoon",
-      "type": "module"
-    },
-    {
-      "name": "tokenmagic",
-      "type": "module"
+      "name": "sequencer"
     }
   ],
-  "socket": false,
   "manifest": "https://github.com/kbender84/coriolis-kbender-fx/releases/download/0.2/module.json",
-  "download": "https://github.com/kbender84/coriolis-kbender-fx/releases/download/0.2/coriolis-kbender-fx.zip",
-  "protected": false,
-  "coreTranslation": false,
-  "library": false
+  "download": "https://github.com/kbender84/coriolis-kbender-fx/releases/download/0.2/coriolis-kbender-fx.zip"
 }
