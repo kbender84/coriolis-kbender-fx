@@ -24,7 +24,13 @@
       "lang": [
         "en"
       ],
-      "type": "Macro"
+      "type": "Macro",
+      "private": false
+    }
+  ],
+  "dependencies": [
+    {
+      "name": "sequencer"
     }
   ],
   "manifest": "https://github.com/kbender84/coriolis-kbender-fx/releases/download/0.2/module.json",
