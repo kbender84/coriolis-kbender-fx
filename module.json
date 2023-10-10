@@ -1,8 +1,8 @@
 {
-  "name": "coriolis-kbender-fx",
+  "id": "coriolis-kbender-fx",
   "title": "Coriolis kbender FX pack",
   "description": "Icons and special fx macros for Coriolis RPG",
-  "version": "0.2",
+  "version": "0.4",
    "authors": [
     {
       "name": "benderworks",
@@ -27,6 +27,6 @@
       "type": "Macro"
     }
   ],
-  "manifest": "https://github.com/kbender84/coriolis-kbender-fx/releases/download/0.2/module.json",
-  "download": "https://github.com/kbender84/coriolis-kbender-fx/releases/download/0.2/coriolis-kbender-fx.zip"
+  "manifest": "https://github.com/kbender84/coriolis-kbender-fx/releases/download/0.4/module.json",
+  "download": "https://github.com/kbender84/coriolis-kbender-fx/releases/download/0.4/coriolis-kbender-fx.zip"
 }
